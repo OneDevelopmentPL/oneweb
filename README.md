@@ -1,8 +1,6 @@
-Cześć! Dzięki za odwiedziny!
+# OneWeb
 
-Pamiętaj, zainstaluj odpowiednie zależności przez debugowaniem kodu `pip3 install PyQt6 PyQt6-WebEngine`
-
-Aplikacja działa na systemy Windows 10/11 64bit, Linux, MacOS (niepotwierdzony)
-Musisz mieć zainstalowany >python3.10.
-
-Miłego korzystania!
+# OneWeb is now in AUR! Download for Arch Linux or any Linux with latest Python. It is called 'oneweb-bin' on AUR! 
+```bash
+yay -S oneweb-bin
+```
