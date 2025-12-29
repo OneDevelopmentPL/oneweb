@@ -2,13 +2,12 @@ import os
 import shutil
 
 APP_NAME = "OneWeb"
-SOURCE_FILE = "main.py"  # twój plik
+SOURCE_FILE = "main.py"  
 TARGET_DIR = os.path.expanduser("~/.local/share/MojaAplikacja")
 DESKTOP_FILE_PATH = os.path.expanduser(f"~/.local/share/applications/{APP_NAME}.desktop")
-ICON_PATH = ""  # np. "/home/user/icon.png" lub zostaw puste
+ICON_PATH = ""
 
 def main():
-    # Tworzenie folderu aplikacji
     os.makedirs(TARGET_DIR, exist_ok=True)
 
     # Kopiowanie pliku main.py
