@@ -1,9 +1,15 @@
 # OneWeb
 
-# OneWeb is now in AUR! Download for Arch Linux or any Linux with latest Python. It is called 'oneweb-bin' on AUR! 
+# OneWeb is now in AUR! Download for Arch Linux or any Linux with latest Python. It is called `oneweb-bin' on AUR! 
 ```bash
 yay -S oneweb-bin
 ```
+```bash
+aurx inst oneweb-main
+```
+or any other AUR helper
+
+# OneWeb jest dostępny na AUR! Pobierz na ArchLinux z AUR. Pakiet nazywa się `oneweb-bin` na AUR!
 ## 🔒 Privacy Notice
 
 ---
