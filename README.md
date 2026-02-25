@@ -1,6 +1,9 @@
 # OneWeb
 
-# OneWeb is now in AUR! Download for Arch Linux or any Linux with latest Python. It is called `oneweb-bin` on AUR! 
+# We have a new privacy-focused browser called "openbrowsing". Click (here)[https://github.com/OneDevelopmentPL/OpenBrowsing] to open GitHub repo!
+# Mamy nową ultra prywatną przeglądarkę internetową o nazwie "openbrowsing". Kliknij (tutaj)[https://github.com/OneDevelopmentPL/OpenBrowsing] aby otworzyć repo GitHub!
+
+## OneWeb is now in AUR! Download for Arch Linux or any Linux with latest Python. It is called `oneweb-bin` on AUR! 
 ```bash
 yay -S oneweb-bin
 ```
@@ -9,7 +12,7 @@ aurx inst oneweb-main
 ```
 or any other AUR helper
 
-# OneWeb jest dostępny na AUR! Pobierz na Arch Linux. Pakiet nazywa się `oneweb-bin`!
+## OneWeb jest dostępny na AUR! Pobierz na Arch Linux. Pakiet nazywa się `oneweb-bin`!
 ```bash
 yay -S oneweb-bin
 ```
